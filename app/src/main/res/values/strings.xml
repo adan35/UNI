@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">unConverter</string>
     <string name="todo">TODO</string>
+    <string name="kg">kg</string>
 </resources>
