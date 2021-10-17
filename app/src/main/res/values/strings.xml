@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">unConverter</string>
     <string name="todo">TODO</string>
+    <string name="enter_value_in_kg">Enter value in Kg</string>
+    <string name="kg">kg</string>
     <string name="kg">kg</string>
 </resources>
