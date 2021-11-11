@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onNext(View view) {
-
+        Intent goToNextActivity = new Intent(getApplicationContext(), FirstActivity.class);
+        startActivity(goToNextActivity);
     }
 }
