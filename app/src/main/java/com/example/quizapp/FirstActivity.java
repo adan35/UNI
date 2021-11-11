@@ -20,8 +20,17 @@ public class FirstActivity extends AppCompatActivity {
     }
 
     public void quizContent (View view) {
-        Uri uri = Uri.parse("https://github.com/adan35/quizApp.git");
+        Uri uri = Uri.parse("https://learn-quran-kids.com/tajweed/makharij-emission-points/");
         Intent intent= new Intent(Intent.ACTION_VIEW,uri);
         startActivity(intent);
+    }
+
+    public void startQuiz (View view) {
+        String roll= rollno.getText().toString();
+        String nam = name.getText().toString();
+        Intent i = new Intent(getApplicationContext(), Quiz.class);
+        i.putExtra("key1",roll);
+        i.putExtra("key2",nam);
+        startActivity(i);
     }
 }
