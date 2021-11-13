@@ -7,6 +7,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.Toast;
 
 public class FirstActivity extends AppCompatActivity {
 
@@ -28,9 +29,14 @@ public class FirstActivity extends AppCompatActivity {
     public void startQuiz (View view) {
         String roll= rollno.getText().toString();
         String nam = name.getText().toString();
+        if (roll.equals("") || nam.equals("")){
+            Toast.makeText(this, "Please enter name and roll number carefully", Toast.LENGTH_SHORT).show();
+        }
+        else {
         Intent i = new Intent(getApplicationContext(), Quiz.class);
         i.putExtra("key1",roll);
         i.putExtra("key2",nam);
         startActivity(i);
+        }
     }
 }
