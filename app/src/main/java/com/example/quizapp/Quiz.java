@@ -2,6 +2,7 @@ package com.example.quizapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -110,7 +111,15 @@ public class Quiz extends AppCompatActivity {
         else {
             if (answer.equals(answers[qNo-1])) correct++;
             if (qNo > 9) {
-
+                String r= roll.getText().toString();
+                String n = name.getText().toString();
+                Intent i = new Intent(getApplicationContext(), Result.class);
+                String score = Integer.toString(correct);
+                i.putExtra("key3",r);
+                i.putExtra("key4",n);
+                i.putExtra("key5", score);
+                startActivity(i);
+                finish();
             }
             else {
                 fetchMcq();
