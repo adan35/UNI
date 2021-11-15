@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">zakat-calculator</string>
     <string name="todo">TODO</string>
+    <string name="zakat">ZAKAT</string>
 </resources>
