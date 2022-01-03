@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/drawable/ic_favortie_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/drawable/ic_favortie_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/layout/activity_main.xml" value="0.268" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/menu/menu.xml" value="0.2546875" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/mipmap-anydpi-v26/ic_favortie.xml" value="0.2708333333333333" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/mipmap-anydpi-v26/ic_favortie_round.xml" value="0.2708333333333333" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2708333333333333" />
+        <entry key="..\:/JUNAID/MC/nav-android/nav-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/Adan/AndroidStudioProjects/nav-android/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Adan/AndroidStudioProjects/nav-android/app/src/main/res/menu/menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/Ahsan Riaz/AndroidStudioProjects/MC-Custom-Navigation-Bar-Practice/app/src/main/res/drawable/ic_favortie_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Ahsan Riaz/AndroidStudioProjects/MC-Custom-Navigation-Bar-Practice/app/src/main/res/menu/menu.xml" value="0.5" />
+        <entry key="..\:/Users/Ahsan Riaz/AndroidStudioProjects/NavigationBar/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ahsan Riaz/AndroidStudioProjects/NavigationBar/app/src/main/res/menu/menu.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
