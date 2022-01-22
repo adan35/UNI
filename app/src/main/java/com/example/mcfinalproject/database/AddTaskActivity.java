@@ -1,4 +1,4 @@
-package com.ammar.assignments.database.database;
+package com.example.mcfinalproject.database;
 
 import android.content.Intent;
 import android.os.AsyncTask;
