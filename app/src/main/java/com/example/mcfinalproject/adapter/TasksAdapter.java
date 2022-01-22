@@ -1,4 +1,4 @@
-package com.ammar.assignments.database.adapter;
+package com.example.mcfinalproject.adapter;
 
 import android.content.Context;
 import android.content.Intent;
