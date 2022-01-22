@@ -3,17 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< HEAD
-<<<<<<< HEAD
+        <entry key="..\:/Users/Haris/Documents/Web Development/MC-FINAL-PROJECT/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/Haris/Documents/Web Development/MC-FINAL-PROJECT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
         <entry key="..\:/Users/Haris/Documents/Web Development/MC-FINAL-PROJECT/app/src/main/res/layout/recycler_view.xml" value="0.20416666666666666" />
-=======
-        <entry key="..\:/Users/Adan/AndroidStudioProjects/MCFinalProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
->>>>>>> 9be92c4754db861a5e16e00ced949cea65a6d23d
-=======
-        <entry key="..\:/Users/Adan/AndroidStudioProjects/MCFinalProject/app/src/main/res/layout/activity_add_task.xml" value="0.1" />
-        <entry key="..\:/Users/Adan/AndroidStudioProjects/MCFinalProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/Adan/AndroidStudioProjects/MCFinalProject/app/src/main/res/layout/activity_update_task.xml" value="0.1" />
->>>>>>> main
       </map>
     </option>
   </component>
