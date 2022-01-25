@@ -1,4 +1,4 @@
-package com.example.mcfinalproject;
+package com.ammar.assignments.database;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -11,10 +11,10 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.mcfinalproject.database.DatabaseClient;
-import com.example.mcfinalproject.modelclass.Task;
+import com.ammar.assignments.database.database.DatabaseClient;
+import com.ammar.assignments.database.modelclass.Task;
 
-
+import net.simplifiedcoding.mytodo.R;
 
 public class UpdateTaskActivity extends AppCompatActivity {
 
