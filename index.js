@@ -25,6 +25,7 @@ async function solve(a,b,c){
       root1 = (-b + Math.sqrt(discriminant)) / (2 * a);
       root2 = (-b - Math.sqrt(discriminant)) / (2 * a);
   }
+  
   else if (discriminant == 0) {
       root1 = root2 = -b / (2 * a);
   }
