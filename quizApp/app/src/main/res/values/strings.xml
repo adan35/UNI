@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="git_link">Git Link</string>
+    <string name="quiz_image">quiz_image</string>
+    <string name="next">Next</string>
+    <string name="enter_your_roll_num">Enter your roll num</string>
+    <string name="quiz_content">Quiz Content</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Name:</string>
+    <string name="roll_num">Roll Num:</string>
+    <string name="forward">forward</string>
+    <string name="score">SCORE</string>
+    <string name="_100">/100</string>
+</resources>

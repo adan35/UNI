@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="..\:/Users/Haris/Desktop/Task1/android-room-database-example-master/app/src/main/res/layout/activity_main.xml" value="0.15" />
         <entry key="..\:/Users/Haris/Documents/Web Development/MC-FINAL-PROJECT/app/src/main/res/layout/recycler_view.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Adan/AndroidStudioProjects/MCFinalProject/app/src/main/res/layout/activity_add_task.xml" value="0.1" />
@@ -12,6 +13,13 @@
 =======
         <entry key="..\:/AndriodStudioProject/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.12047101449275362" />
         <entry key="..\:/AndriodStudioProject/MyApplication/app/src/main/res/menu/menu_main.xml" value="0.22447916666666667" />
+>>>>>>> temp/main
+=======
+        <entry key="..\:/AndriodStudioProject/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndriodStudioProject/quizApp/app/src/main/res/layout/activity_first.xml" value="0.33" />
+        <entry key="..\:/AndriodStudioProject/quizApp/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/AndriodStudioProject/quizApp/app/src/main/res/layout/activity_quiz.xml" value="0.20677083333333332" />
+        <entry key="..\:/AndriodStudioProject/quizApp/app/src/main/res/layout/activity_result.xml" value="0.20677083333333332" />
 >>>>>>> temp/main
       </map>
     </option>
